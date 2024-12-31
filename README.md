@@ -84,4 +84,4 @@ A content management system focused on user experience:
 - Open to backend engineering roles and collaborations
 - Always eager to tackle complex technical challenges
 
-[Twitter](https://twitter.com/skyrealz) | [LinkedIn](https://www.linkedin.com/in/damilola-ajayi-07b982212) | [Portfolio](https://skyreal.vercel.app/)
+[Twitter](https://twitter.com/skyrealz) | [LinkedIn](https://www.linkedin.com/in/damilola-ajayi-07b982212) | [Portfolio](https://skyreal.me/)
