@@ -1,4 +1,4 @@
-# Hi, I'm Damilola 👋
+# Hi, I'm Dami 👋
 
 Full-stack engineer in Nigeria, working remotely (UTC+1). I take products from idea to production and keep them running: API, web apps, admin tools, payments, and infrastructure.
 
